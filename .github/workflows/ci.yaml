@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  code-validation:
+    name: Code validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up node
+        uses: actions/setup-node@v4
+
+      - name: Set up Rust
+        uses: actions-rust-lang/setup-rust-toolchain@v1
+
+      - name: Install prettier
+        run: npm install --global prettier
+
+      - name: Install typos
+        run: cargo install typos-cli
+
+      - name: Check formatting
+        run: make formatter-check
+
+      - name: Check spelling
+        run: make spellchecker-check
