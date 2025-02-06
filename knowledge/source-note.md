@@ -62,6 +62,7 @@ in the note.
 - **podcast**: Notes about podcasts.
 - **app**: Notes about interesting applications. These can be web, mobile, or
   desktop application.
+- **wiki**: Notes about Wikipedia articles.
 
 ### Structure
 
@@ -76,7 +77,7 @@ related:
     - [[root-note]] some optional info
 ---
 
-# Article:: Brief Description
+# Article :: Brief Description
 
 Content of the note.
 ```

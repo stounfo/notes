@@ -27,4 +27,6 @@ It seems that the author suggests that it is better develop a program 'right'
 from the beginning. I'm not sure I agree. I think that common view that
 architecture and other best practices are not so important in a startup.
 
+I didn't find definitions of 'architecture' and 'design' in the chapter.
+
 ## A Tale of Two Values

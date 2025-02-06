@@ -1,6 +1,6 @@
 ---
 note-type: source
-status: wip
+status: done
 source-type: repo
 source-link: https://github.com/Automattic/harper
 related:
