@@ -9,6 +9,11 @@ references: [[wiki::software-design-patterns]]
 Reusable solution to common problems in software design. The term is broad and
 can be applied to many different areas of software design.
 
-Types:
+## Architectural Design Patterns
 
-- [[architectural-design-pattern]]
+Different software design patterns that act on a higher level of abstraction.
+
+Catalog:
+
+- [[clean-architecture]]
+- [[model-view-controller]]

@@ -1,7 +1,7 @@
 ---
 note-type: knowledge
 related:
-    - [[architectural-design-pattern]]
+    - [[software-design-pattern]]
 references:
     - [[article::the-hunt-for-the-mythical-mvc]]
 ---

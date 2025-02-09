@@ -1,10 +1,10 @@
 ---
 note-type: daily
-date: 2025-02-08
-weekday: saturday
+date: 2025-02-12
+weekday: wednesday
 ---
 
-# Saturday, February 08, 2025
+# Wednesday, February 12, 2025
 
 ## Habit Tracker
 
@@ -17,6 +17,7 @@ weekday: saturday
 
 ## Tasks
 
-- [] Take notes on about architecture and system design
+- [ ] Translate the passport
+- [ ] Get the id card
 
 ## Journal

@@ -1,11 +1,11 @@
 ---
 note-type: knowledge
 related:
-    - [[architectural-design-pattern]]
+    - [[software-design-pattern]]
 references:
     - [[book::clean-architecture]]
 ---
 
 # Clean Architecture
 
-A [[architectural-design-pattern]] introduced by Robert C. Martin.
+A [[software-design-pattern]] introduced by Robert C. Martin.
