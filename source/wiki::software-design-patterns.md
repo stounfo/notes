@@ -3,7 +3,6 @@ note-type: source
 status: done
 source-type: wiki
 source-link: https://en.wikipedia.org/wiki/Software_design_pattern
-related:
 ---
 
 # Wiki :: Software Design Patterns

@@ -48,8 +48,8 @@ Each note is stored as a Markdown file with a unique name.
 
 All notes should be placed in the `source/` folder.
 
-Use the `#todo` tag to mark sections that need fixing. It can be placed anywhere
-in the note.
+Use the `#todo` tag to mark sections that need fixing. It can be placed
+anywhere in the note.
 
 ### Source types
 
@@ -72,9 +72,6 @@ note-type: source
 status: wip | done
 source-type: book | article | thought | etc
 source-link: https://example.com
-related:
-    - [[root-note]]
-    - [[root-note]] some optional info
 ---
 
 # Article :: Brief Description
@@ -93,8 +90,5 @@ Content of the note.
 **source-type** - The type of the source. Based on [[#Source types]]
 
 **source-link** - An external source link, if available.
-
-**related** - Links to other [[knowledge-note|knowledge notes]] that are related
-to the current note.
 
 **Content** - The main body of the note. It can include anything.

@@ -3,8 +3,6 @@ note-type: source
 status: done
 source-type: article
 source-link: https://mkalvas.com/notes/202104291522
-related:
-    - [[note-taking]]
 ---
 
 # Article :: The mkalvas Entry Point

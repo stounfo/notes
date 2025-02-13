@@ -3,9 +3,6 @@ note-type: source
 status: done
 source-type: repo
 source-link: https://github.com/Automattic/harper
-related:
-    - [[note-taking]]
-    - [[tools]]
 ---
 
 # Repo :: Harper
