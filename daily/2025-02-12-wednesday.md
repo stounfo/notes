@@ -9,7 +9,7 @@ weekday: wednesday
 ## Habit Tracker
 
 - [ ] Exercise
-- [ ] Personal programming
+- [x] Personal programming
 - [ ] Reading
 - [ ] Language learning
 - [ ] Note-taking
@@ -17,7 +17,7 @@ weekday: wednesday
 
 ## Tasks
 
-- [ ] Translate the passport
-- [ ] Get the id card
+- [x] Translate the passport
+- [x] Get the id card
 
 ## Journal
