@@ -31,3 +31,4 @@ Personal:
 
 - [ ] Pay off all debts.
 - [ ] Decide on the next location to move to.
+- [ ] Do push-ups, squats, and ab exercises for 3 sets; 1.5 minutes in a plank.

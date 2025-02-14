@@ -1,6 +1,6 @@
 ---
 note-type: source
-status: wip
+status: done
 source-type: app
 source-link: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html?
 ---
