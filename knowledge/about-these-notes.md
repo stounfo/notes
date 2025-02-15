@@ -21,6 +21,7 @@ There are several types of notes:
 - Having a single repository for accumulated knowledge.
 - Connection and search helps to quickly find actual information.
 - Helps to better understand and remember information.
+- Helps to remember and complete daily routines and tasks.
 
 ## Implementation
 
@@ -36,12 +37,9 @@ source/      <- Folder for source notes
 
 ### Tools
 
-#todo finish tools explanation
-
 - **Markdown** as the file format
 - **NeoVim** as the text editor
 - **Git** for version control
 - **GitHub** as the remote repository
 - **Prettier** for formatting
 - **ASCII diagrams** via [asciiflow.com](https://asciiflow.com/)
-- Future implementation similar to [mkalvas.com](https://mkalvas.com/)
