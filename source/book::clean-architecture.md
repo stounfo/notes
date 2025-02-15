@@ -58,4 +58,75 @@ features that are urgent but not important from those features that are urgent
 
 The software team should fight for architecture with other stakeholders.
 
-## Starting with the Bricks: Programming paradigms
+## Starting With the Bricks: Programming Paradigms
+
+Just history stuff.
+
+## Paradigm Overview
+
+> Structured programming imposes discipline on direct transfer of control.
+
+It means that structured programming is about avoiding `goto` statements and
+using direct control flow constructs like `if`, `while`, `for`, etc.
+
+Example:
+
+Instead of:
+
+```c
+goto end;
+...
+end:
+```
+
+Use:
+
+```c
+if (condition) {
+  ...
+}
+```
+
+> Object-oriented programming imposes discipline on indirect transfer of
+> control.
+
+Determines which functions to call at runtime (dynamic dispatch).
+
+Example:
+
+Instead of:
+
+```c
+if (shape_type == CIRCLE) {
+    draw_circle();
+} else if (shape_type == RECTANGLE) {
+    draw_rectangle();
+}
+```
+
+Use:
+
+```cpp
+class Shape {
+public:
+    virtual void draw() = 0; // Abstract method
+};
+
+class Circle : public Shape {
+public:
+    void draw() override { /* Draw circle */ }
+};
+
+class Rectangle : public Shape {
+public:
+    void draw() override { /* Draw rectangle */ }
+};
+
+Shape* s = new Circle();
+s->draw(); // Indirect control transfer via polymorphism
+```
+
+> Functional programming imposes discipline upon assignment.
+
+Each paradims removes capabilities from a programmer. They tell us what **not**
+to do more than what to do.
