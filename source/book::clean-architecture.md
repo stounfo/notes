@@ -64,6 +64,8 @@ Just history stuff.
 
 ## Paradigm Overview
 
+**Structured Programming**
+
 > Structured programming imposes discipline on direct transfer of control.
 
 It means that structured programming is about avoiding `goto` statements and
@@ -86,6 +88,8 @@ if (condition) {
   ...
 }
 ```
+
+**Object-Oriented Programming**
 
 > Object-oriented programming imposes discipline on indirect transfer of
 > control.
@@ -126,7 +130,51 @@ Shape* s = new Circle();
 s->draw(); // Indirect control transfer via polymorphism
 ```
 
+**Functional Programming**
+
 > Functional programming imposes discipline upon assignment.
+
+Example:
+
+Instead of:
+
+```python
+numbers = [1, 2, 3, 4]
+for i in range(len(numbers)):
+    numbers[i] *= 2  # Mutates the original list
+
+print(numbers)  # Output: [2, 4, 6, 8]
+```
+
+Use:
+
+```python
+numbers = [1, 2, 3, 4]
+doubled_numbers = list(map(lambda x: x * 2, numbers))  # No mutation
+
+print(numbers)         # Output: [1, 2, 3, 4] (unchanged)
+print(doubled_numbers) # Output: [2, 4, 6, 8]
+```
 
 Each paradims removes capabilities from a programmer. They tell us what **not**
 to do more than what to do.
+
+All this paradigms are useful on architecture level.
+
+**Polymorphism and Architectural Boundaries**
+
+A Service Interface that different implementations (e.g., local vs. cloud
+storage) can use without changing the client code
+
+**Functional Programming and Data Management Discipline**
+
+Using immutable data structures in a system ensures that data flows in a
+predictable, controlled manner rather than being modified unpredictably across
+the codebase.
+
+**Structured Programming as the Algorithmic Foundation**
+
+A well-structured function that processes a request in a REST API should have
+clear input, processing, and output phases.
+
+## Structured Programming
