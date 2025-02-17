@@ -1,6 +1,6 @@
 ---
 note-type: knowledge
-related: [[root-note]]
+related: [[software-engineering]]
 references: [[wiki::software-design-patterns]]
 ---
 

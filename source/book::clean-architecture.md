@@ -178,3 +178,27 @@ A well-structured function that processes a request in a REST API should have
 clear input, processing, and output phases.
 
 ## Structured Programming
+
+All programs can be constructed using only three control structures:
+
+1. Sequence - execute statements in order
+2. Selection - conditionals
+3. Iteration - loops
+
+But subroutines (functions, procedures, etc.) are also essential for
+structuring code.
+
+Sturctured programming help modules to be decomposed into smaller units.
+
+Scientific theories and laws can't be proven correct as opposed to mathematical
+theorems. Science does not work by proving things correct, but by proving them
+incorrect.
+
+Similarly, testing helps to prove that a program is incorrect, but not that it
+is correct.
+
+Structured programming forces us to decompose program into a set of small
+provable units. And we can use testing to prove that those units are correct.
+
+At every level, from the smallest function to the largest component, software
+is like a science and, therefore, is driven by falsifiability
