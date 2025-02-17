@@ -9,3 +9,5 @@ references: [[book::clean-architecture]]
 For instance, [[structured-programming]] forces us to decompose a program into
 smaller functions. And we can use the same idea for functional decomposition at
 a higher level.
+
+#todo add more examples

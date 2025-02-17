@@ -1,10 +1,14 @@
 ---
-related: "[[English]]"
+note-type: knowledge
+related: [[root-note]]
+references:
 ---
 
-# Adding words in English
+# Adding Words in English
 
-Firstly, find out all word forms.
+This is a cheat sheet on how to add new words in English to vocabulary.
+
+Find out all word forms.
 
 ## Noun
 
@@ -34,7 +38,7 @@ Firstly, find out all word forms.
 
 | type             | properties                                                                       | example               |
 | ---------------- | -------------------------------------------------------------------------------- | --------------------- |
-| noun             | countable, uncountable, singular, preposition                                    | a car                 |
+| noun             | countable, uncountable, singular, preposition                                    | a car, coincidence    |
 | verb             | phrasal, preposition, transitive, intransitive, v1, v2, v3, +gerund, +infinitive | to say                |
 | adjective        | preposition, comparative, superlative                                            | caring                |
 | suffix           | -                                                                                | -based                |
