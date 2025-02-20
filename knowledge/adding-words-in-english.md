@@ -1,7 +1,7 @@
 ---
 note-type: knowledge
 related: [[root-note]]
-references:
+references: [[article::animecards]]
 ---
 
 # Learning English Vocabulary
@@ -74,7 +74,7 @@ A flashcard's data should include the following:
 
 There are several types of flashcards:
 
-- **Type 1:** Front: Definition and an input field to type the word → Back:
-  Everything else
+- **Type 1:** Front: Definition, hidden translation, and an input field to type
+  the word → Back: Everything else
 - **Type 2:** Front: Translation → Back: Everything else
 - **Type 3:** Front: Audio → Back: Everything else
