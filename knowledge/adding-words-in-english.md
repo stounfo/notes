@@ -4,19 +4,24 @@ related: [[root-note]]
 references:
 ---
 
-# Adding Words in English
+# Learning English Vocabulary
 
 This is a cheat sheet on how to add new words in English to vocabulary.
 
-- I heard a new word or phrase
-- I looked it up in a dictionary
-- I created several flashcards for each word. Each card should contain a
-  sentence with the word, its translation, and sound.
+## Workflow
 
-## What Should Be Checked When Adding a New Word
+1. Find a word in a book, article, etc.
+2. Create flashcards. Each card should illustrate one key aspect of the word
+   from [[#What to Check When Adding a New Word]].
+
+## What to Check When Adding a New Word
+
+The aspects to consider depend on the part of speech. When adding a new word,
+don't try to add multiple meanings at once.
 
 **Noun**
 
+- Multiple meanings
 - Countable or/and uncountable
     - if countable, singular and plural
 - Commonly used prepositions (roof of, entrance to)
@@ -25,6 +30,7 @@ This is a cheat sheet on how to add new words in English to vocabulary.
 
 **Verb**
 
+- Multiple meanings
 - Phrasal verbs
 - Commonly used prepositions
 - Transitive or intransitive
@@ -35,6 +41,7 @@ This is a cheat sheet on how to add new words in English to vocabulary.
 
 **Adjective**
 
+- Multiple meanings
 - Comparative and superlative forms
 - Commonly used prepositions
 - **-ed** and **-ing** adjectives
@@ -43,11 +50,21 @@ This is a cheat sheet on how to add new words in English to vocabulary.
 
 **Adverb**
 
+- Multiple meanings
 - Placement in a sentence (beginning, middle, end)
 - Commonly used prepositions
 - Comparative and superlative forms
 - Antonyms
 - Common collocations
+
+## Flashcard
+
+A flashcard should include the following:
+
+- Short phrase with the word
+- Definition of the word
+- Translation of the phrase
+- Sound of the phrase
 
 ## Designations
 
