@@ -204,3 +204,24 @@ At every level, from the smallest function to the largest component, software
 is like a science and, therefore, is driven by falsifiability
 
 ## Object-Oriented Programming
+
+Some folks say OO - a proper mix of encapsulation, inheritance, and
+polymorphism
+
+**Encapsulation**
+
+Encapsulation is about combining a cohesive set of data and functions within a
+single unit and hiding implementation details from the rest of the system.
+
+In C, encapsulation is better than in C++ or Java. For this reason, OO doesn't
+depend on strong encapsulation.
+
+**Inheritance**
+
+Inheritance is the redeclaration of a group of variables and functions within
+an enclosing scope.
+
+Inheritance existed a long before OO languages.
+
+New languages didn't add something new to inheritance. They just made it more
+convenient.

@@ -1,7 +1,7 @@
 ---
 note-type: knowledge
 related: [[programming-paradigm]]
-references:
+references: [[book::clean-architecture]]
 ---
 
 # Object-Oriented Programming
