@@ -5,6 +5,8 @@ related:
 
 # serial vs identity in posgresql
 
+#todo add more about the differences
+
 `serial` is the "old" implementation of auto-generated unique values that has
 been part of Postgres for ages. However that is not part of the SQL standard.
 
