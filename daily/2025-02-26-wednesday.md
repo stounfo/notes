@@ -1,10 +1,10 @@
 ---
 note-type: daily
-date: 2025-02-24
-weekday: monday
+date: 2025-02-26
+weekday: wednesday
 ---
 
-# Monday, February 24, 2025
+# Wednesday, February 26, 2025
 
 ## Habit Tracker
 
@@ -16,5 +16,7 @@ weekday: monday
 - [ ] Guitar practice
 
 ## Tasks
+
+- [ ] Decide what to do with a home trip
 
 ## Journal

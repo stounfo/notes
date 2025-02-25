@@ -225,3 +225,30 @@ Inheritance existed a long before OO languages.
 
 New languages didn't add something new to inheritance. They just made it more
 convenient.
+
+**Polymorphism**
+
+Polymorphism was before OO.
+
+Example of STDIN and STDOUT in C.
+
+```c
+int main() {
+    int c;
+    while ((c = getchar()) != EOF) {
+        putchar(c);
+    }
+}
+```
+
+OO languages has provided nothing new in polymorphism, but they have made it
+safer and convenient.
+
+**The Power of Polymorphism**
+
+An example of using polymorphism on changing data storage from decks of cards
+to magnetic tapes.
+
+OO allows using the same approach (a plugin architecture) anywhere.
+
+**Dependency Inversion**
